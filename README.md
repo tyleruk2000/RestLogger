@@ -1,2 +1,2 @@
 # RestLogger
-simple application to go out rest hots
+simple application to go out rest requests
